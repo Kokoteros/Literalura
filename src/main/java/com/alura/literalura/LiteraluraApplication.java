@@ -1,4 +1,4 @@
-package com.literalura.Literalura;
+package com.alura.literalura;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
